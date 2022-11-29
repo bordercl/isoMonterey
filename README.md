@@ -1,6 +1,6 @@
 # isoMonterey
 
-1. まず、macOSをダウンロードする
+1. まず、Monterey OSをダウンロードする
     * https://support.apple.com/ja-jp/HT211683
 1. ダウンロード後、本スクリプトを実行
     ```shell
