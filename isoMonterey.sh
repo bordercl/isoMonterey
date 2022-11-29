@@ -1,10 +1,9 @@
 #!/usr/bin/env bash
 
-# readme
+# reference
 # 
-# まず、macOSをダウンロードする
-# https://support.apple.com/ja-jp/HT211683
-# ダウンロード後、本スクリプトを実行
+# https://softantenna.com/blog/how-to-install-macos-monterey-on-vmware-fusion-12/
+# https://softantenna.com/blog/how-to-create-macos-monterey-iso-image/
 
 SLEEP () {
     sleep 3
